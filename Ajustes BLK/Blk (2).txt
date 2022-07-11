@@ -1,0 +1,1 @@
+Software de Gestión logística que permite el seguimiento, control y optimización de los procesos de negocio asociados al almacenamiento,transporte,inventarios,distribución entre otros, garantizando la agilidad y seguridad de los mismos.

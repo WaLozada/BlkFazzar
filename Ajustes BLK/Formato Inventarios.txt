@@ -1,0 +1,13 @@
+Buenos días,
+
+William en el formato adjunto el cual manejamos para los inventarios se divide en 3 aspectos:
+
+1.	Campos en color azul: Son los datos que bajamos de SAP para incluir en dicho formato. Estos datos no se modifican 
+2.	Campos en color en amarillo: Son los campos donde el personal realiza el conteo fisico y colocan los los datos de la mercancia contada
+3.	Campo en color verde: Donde se concilia el inventario 
+
+Parte de lo que se requiere es que al exportar la informacion de BLK a excel se baje de esa manera para evitar manipular la informacion.
+
+
+
+Quedo atenta a tus comentarios
